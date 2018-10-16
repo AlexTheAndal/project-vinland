@@ -1,0 +1,8 @@
+severe_winter = {
+	# VINLAND / Vinland
+	1 
+}
+#	NO WINTER = {
+#		# NO KINGDOM
+#		2 
+#	}

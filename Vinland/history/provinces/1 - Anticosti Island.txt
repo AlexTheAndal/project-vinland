@@ -1,0 +1,18 @@
+# c_anticosti_island
+
+# County Title
+title = c_anticosti_island
+
+# Settlements
+max_settlements = 4
+
+b_notiskuan = castle
+#b_anticosti_island = city
+#b_anticosti_island_2 = temple
+#b_anticosti_island_3 = castle
+
+# Misc
+culture = irish
+religion = catholic
+
+#History
